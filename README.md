@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ### Arman
 
 📊 **Data Analyst**  
-📈 Data Science & theory-driven Machine Learning  
-🎯 Focus: **1991**, statistics, linear algebra
 
 ---
 
@@ -30,16 +28,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tools
-`Python` · `PyTorch` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-Learn` · `SQL`· `FastAPI` · `Power BI`
+`Python` · `SQL`· `FastAPI` · `Power BI` · `Docker` · `GenAI`
 
 ---
 
 ### 💼 Portfolio
-- [Project 1: Data Analysis of Taxi Rides](#)  
-- [Project 2: ML Model for Predictive Analysis](#)  
-- [Project 3: Mathematical Modeling in Python](#)
+- [Project 1: Hospital Analysis](https://github.com/ArmH-yan/hospital-analytics)  
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=true&hide_title=true&show_icons=false" />
-</p>
