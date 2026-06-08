@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tools
-`Python` · `SQL`· `FastAPI` · `Power BI` · `Docker` · `GenAI`
+`Python` · `SQL`· `FastAPI` · `Power BI` · `Docker` · `GenAI` · `Data Warehouse` · `G. Sheets`
 
 ---
 
 ### 💼 Portfolio
-- [Project 1: Hospital Analysis](https://github.com/ArmH-yan/hospital-analytics)  
+- [Project 1: Hospital Analysis](https://github.com/ArmH-yan/hospital-analytics)
+- [Project 2: Gaming Platform Operations Analytics](https://github.com/ArmH-yan/gpo_analytics)   
 
