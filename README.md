@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Tools
+### Tools
 `Python` · `SQL`· `FastAPI` · `Power BI` · `Docker` · `GenAI` · `Data Warehouse` · `G. Sheets`
 
 ---
 
-### 💼 Portfolio
+### Portfolio
 - [Project 1: Hospital Analysis](https://github.com/ArmH-yan/hospital-analytics)
 - [Project 2: Data Collector for Door-System Company](https://github.com/ArmH-yan/digitaldoors)   
 
