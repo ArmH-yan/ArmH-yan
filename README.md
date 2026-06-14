@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Arman
+### Arman Harutyunyan
 
-📊 **Data Analyst**  
+**Jr. Data Analyst**  
 
 ---
 
-### 🧠 Interests
-- Statistical analysis & data modeling  
-- Mathematical foundations of ML  
-- Interpretable and theory-backed approaches  
+### Interests
+- Statistical analysis & data modeling   
+- Interpretable and theory-backed approaches
+- Data Pipeline Engineering
+- Machine Learning
+- Business Inteligence tools
+- SAP Development  
 
 ---
 
@@ -34,5 +37,5 @@ Here are some ideas to get you started:
 
 ### 💼 Portfolio
 - [Project 1: Hospital Analysis](https://github.com/ArmH-yan/hospital-analytics)
-- [Project 2: Gaming Platform Operations Analytics](https://github.com/ArmH-yan/gpo_analytics)   
+- [Project 2: Data Collector for Door-System Company](https://github.com/ArmH-yan/digitaldoors)   
 
